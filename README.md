@@ -1,12 +1,12 @@
 ## About me
-I am currently working on completing my Master's degree in Medialogy at Aalborg University in Copenhagen. 
+I am currently working on finishing my Master's degree in Medialogy at Aalborg University in Copenhagen. 
 
 ## Core competences: 
 - User Centered Design
 - Programming (Mainly C# and Python)
-- Implemnting Solutions and Games in Unity (2D, 3D, and VR)
+- Implementing Solutions and Games in Unity (2D, 3D, and VR)
 - Evalutaing Protoypes
-- Working in a team 
+- Working in a Team 
 
 ## Eduaction
 - Bachelor's degree in Medialogy from Aalborg University, Copenhagen
