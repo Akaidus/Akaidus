@@ -17,7 +17,7 @@ I am currently working on finishing my Master's degree in Medialogy at Aalborg U
   <tr>
     <td align="center" width="50%">
       <b>Killer on Board</b>
-      <a href="https://deadpiegamer.itch.io/killer-on-board" target="_blank">
+      <a href="https://deadpiegamer.itch.io/killer-on-board" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/user-attachments/assets/ec7831dc-08f0-4d57-bba9-2f3feb524cca"
           style="width:100%; height="1080" 
           />
@@ -27,7 +27,7 @@ I am currently working on finishing my Master's degree in Medialogy at Aalborg U
     </td>
     <td align="center" width="50%">
       <b>Masterpieces</b>
-      <a href="https://beckudrup.itch.io/theburglaryatthe" target="_blank">
+      <a href="https://beckudrup.itch.io/theburglaryatthe" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/user-attachments/assets/64717cba-d8d6-44da-9a19-f6eab4792472"
           style="width:100%; height:876"
           />
@@ -39,7 +39,7 @@ I am currently working on finishing my Master's degree in Medialogy at Aalborg U
   <tr>
     <td align="center" width="50%">
       <b>A.R.M. Bot Adventure</b>
-      <a href="https://deadpiegamer.itch.io/arm-bot" target="_blank">
+      <a href="https://deadpiegamer.itch.io/arm-bot" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/user-attachments/assets/9c84f2a0-ba85-4379-b759-213e831908c5" 
           style="width:100%; height:720"
           />
